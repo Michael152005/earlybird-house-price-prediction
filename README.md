@@ -1,7 +1,7 @@
 # Early Bird Bengkel Koding — Prediksi Harga Rumah Depok
 
 ## Panduan
-1. Buka `Early_Bird_Prediksi_Harga_Rumah_Colab.ipynb` di Google Colab.
+1. Buka `EarlyBird_Full_Pipeline_Colab.ipynb` di Google Colab.
 2. Unggah `Raw-Final-Rumah.csv` ke Colab; jalankan **Runtime → Run all**.
 3. Notebook menyimpan `earlybird_outputs/house_price_model.joblib`, grafik, tabel audit, dan metrik. Unduh ZIP output.
 4. Untuk deployment Streamlit Cloud, unggah `app.py`, `requirements.txt` dan `house_price_model.joblib` ke root repositori GitHub. Di Streamlit Cloud pilih repo dan `app.py`.
