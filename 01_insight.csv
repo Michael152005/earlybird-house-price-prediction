@@ -1,0 +1,4 @@
+Temuan,Bukti,Tindakan
+Harga sangat bervariasi,"Median Rp1,400,000,000; P95 Rp8,200,000,000","Log target, MAE/MAPE/R2"
+Lokasi berbeda,10 lokasi punya >=100 listing,One Hot Encoding lokasi
+Kualitas fitur belum seragam,"Duplikat tanpa Page: 9,478","Parsing area, imputasi train-only"
